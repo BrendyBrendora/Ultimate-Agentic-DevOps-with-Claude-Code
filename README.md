@@ -1,3 +1,4 @@
+
 # DMI Portfolio Website (Static HTML/CSS)
 
 This repository contains a clean, professional-looking **static portfolio website** used in **DevOps Micro Internship (DMI)** Week 1 to practice:
